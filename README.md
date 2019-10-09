@@ -6,5 +6,8 @@ Points:
 * second point
 * third point
 
-# Another section - second level
-bla bla vla
+## Another section - second level
+
+1. Apple
+2. Orange
+3. Carrot
