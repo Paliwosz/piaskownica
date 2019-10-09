@@ -14,5 +14,6 @@ Points:
 
 ## Yet another section
 
-** This is very important**
+**This is very important**
+
 ``and this is something I do not remember``
